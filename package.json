@@ -1,5 +1,6 @@
 {
 	"name": "fcc-test-package",
+	"author": "xdev0x",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
